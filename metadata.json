@@ -1,0 +1,6 @@
+{
+  "name": "RubberDRC Pro",
+  "description": "Sistem Pengiraan & Kelulusan Dry Rubber Content (DRC) untuk Operasi Makmal & Pusat Pengumpulan Getah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
